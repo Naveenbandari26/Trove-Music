@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Firebase credentials
+config/firebaseConfig.js
+.env
+
+# Logs and cache
+logs/
+*.log
