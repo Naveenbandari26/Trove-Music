@@ -31,4 +31,4 @@ trove-26-firebase-adminsdk-q5ow2-fba84a53fd.json
 /firebaseConfig.js
 
 # Firebase keys (Keep sensitive information private)
-frontend/src/firebaseKeys.js
+/firebaseKeys.js
