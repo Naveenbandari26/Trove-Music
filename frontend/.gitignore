@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#json
+/trove-26-firebase-adminsdk-q5ow2-fba84a53fd.json
