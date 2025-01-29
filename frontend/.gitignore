@@ -29,4 +29,6 @@ yarn-error.log*
 # Firebase Admin SDK JSON (Sensitive)
 trove-26-firebase-adminsdk-q5ow2-fba84a53fd.json
 /firebaseConfig.js
-/firebaseKeys.js
+
+# Firebase keys (Keep sensitive information private)
+frontend/src/firebaseKeys.js
